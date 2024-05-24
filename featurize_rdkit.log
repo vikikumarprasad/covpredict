@@ -1,0 +1,12 @@
+2024-05-21 09:52:58,474 ERROR: For 8_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:52:58,492 ERROR: For 16_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:52:58,504 ERROR: For 18_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:52:59,725 ERROR: For 490_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-21 09:52:59,758 ERROR: For 500_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:52:59,764 ERROR: For 501_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:52:59,772 ERROR: For 502_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-21 09:52:59,781 ERROR: For 503_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:52:59,790 ERROR: For 505_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:53:00,963 ERROR: For 836_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:53:00,971 ERROR: For 839_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:53:05,360 ERROR: For 2046_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted

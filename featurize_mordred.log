@@ -1,0 +1,24 @@
+2024-05-19 11:31:30,108 ERROR: For 8_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:31:30,134 ERROR:Descriptor calculation failed for 8_MA-TS_7-8_Product.mol: list index out of range
+2024-05-19 11:31:30,135 ERROR: For 16_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:31:30,148 ERROR:Descriptor calculation failed for 16_MA-TS_7-8_Product.mol: list index out of range
+2024-05-19 11:31:30,149 ERROR: For 18_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:31:30,160 ERROR:Descriptor calculation failed for 18_MA-TS_7-8_Product.mol: list index out of range
+2024-05-19 11:32:04,845 ERROR: For 490_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-19 11:32:04,858 ERROR:Descriptor calculation failed for 490_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:05,473 ERROR: For 500_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-19 11:32:05,485 ERROR:Descriptor calculation failed for 500_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:05,486 ERROR: For 501_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-19 11:32:05,497 ERROR:Descriptor calculation failed for 501_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:05,498 ERROR: For 502_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-19 11:32:05,510 ERROR:Descriptor calculation failed for 502_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:05,511 ERROR: For 503_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-19 11:32:05,522 ERROR:Descriptor calculation failed for 503_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:05,523 ERROR: For 505_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-19 11:32:05,534 ERROR:Descriptor calculation failed for 505_MA-TS_5-6_Product.mol: list index out of range
+2024-05-19 11:32:36,959 ERROR: For 836_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:32:36,971 ERROR:Descriptor calculation failed for 836_MA-TS_7-8_Product.mol: list index out of range
+2024-05-19 11:32:36,973 ERROR: For 839_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:32:37,000 ERROR:Descriptor calculation failed for 839_MA-TS_7-8_Product.mol: list index out of range
+2024-05-19 11:34:39,908 ERROR: For 2046_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-19 11:34:39,920 ERROR:Descriptor calculation failed for 2046_MA-TS_7-8_Product.mol: list index out of range

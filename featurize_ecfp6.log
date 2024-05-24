@@ -1,0 +1,24 @@
+2024-05-21 09:56:36,531 ERROR: For 8_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:36,534 ERROR:Fingeprint calculation failed for 8_MA-TS_7-8_Product.mol: list index out of range
+2024-05-21 09:56:36,535 ERROR: For 16_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:36,536 ERROR:Fingeprint calculation failed for 16_MA-TS_7-8_Product.mol: list index out of range
+2024-05-21 09:56:36,537 ERROR: For 18_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:36,538 ERROR:Fingeprint calculation failed for 18_MA-TS_7-8_Product.mol: list index out of range
+2024-05-21 09:56:36,789 ERROR: For 490_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-21 09:56:36,790 ERROR:Fingeprint calculation failed for 490_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:36,796 ERROR: For 500_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:56:36,797 ERROR:Fingeprint calculation failed for 500_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:36,797 ERROR: For 501_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:56:36,798 ERROR:Fingeprint calculation failed for 501_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:36,799 ERROR: For 502_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 19 C, 5, is greater than permitted
+2024-05-21 09:56:36,799 ERROR:Fingeprint calculation failed for 502_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:36,800 ERROR: For 503_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:56:36,801 ERROR:Fingeprint calculation failed for 503_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:36,801 ERROR: For 505_MA-TS_5-6_Product.mol valence error ignored: Explicit valence for atom # 13 C, 5, is greater than permitted
+2024-05-21 09:56:36,802 ERROR:Fingeprint calculation failed for 505_MA-TS_5-6_Product.mol: list index out of range
+2024-05-21 09:56:37,006 ERROR: For 836_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:37,008 ERROR:Fingeprint calculation failed for 836_MA-TS_7-8_Product.mol: list index out of range
+2024-05-21 09:56:37,009 ERROR: For 839_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:37,009 ERROR:Fingeprint calculation failed for 839_MA-TS_7-8_Product.mol: list index out of range
+2024-05-21 09:56:37,792 ERROR: For 2046_MA-TS_7-8_Product.mol valence error ignored: Explicit valence for atom # 20 N, 4, is greater than permitted
+2024-05-21 09:56:37,793 ERROR:Fingeprint calculation failed for 2046_MA-TS_7-8_Product.mol: list index out of range
