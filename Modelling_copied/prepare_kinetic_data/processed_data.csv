@@ -1,0 +1,504 @@
+,reaction_smiles,activation_energy,temperature,solvent,influential_solvent,solvent_smiles
+0,ClC1=CC=C(C=C1N(=O)=O)N(=O)=O.CCCCN>>CCCCNC1=C(C=C(C=C1)N(=O)=O)N(=O)=O,20.22,298.0,Acetonitrile,Acetonitrile,C(C)#N
+1,ClC1=C(C=CC=C1N(=O)=O)N(=O)=O.CCCCN>>CCCCNC1=C(C=CC=C1N(=O)=O)N(=O)=O,19.9,298.0,Acetonitrile,Acetonitrile,C(C)#N
+2,ClC1=NC=C(C=C1)N(=O)=O.CCCCN>>CCCCNC1=NC=C(C=C1)N(=O)=O,22.08,298.0,Acetonitrile,Acetonitrile,C(C)#N
+3,ClC1=C(C=CC=N1)N(=O)=O.CCCCN>>CCCCNC1=NC=CC=C1N(=O)=O,21.8,298.0,Acetonitrile,Acetonitrile,C(C)#N
+4,FC(F)(F)C1=CC=C(Cl)C(=C1)N(=O)=O.CCCCN>>CCCCNC1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,23.08,298.0,Acetonitrile,Acetonitrile,C(C)#N
+5,N(=O)(=O)C1=CC=C(Cl)C(=C1)C#N.CCCCN>>CCCCNc1ccc(cc1C#N)N(=O)=O,22.93,298.0,Acetonitrile,Acetonitrile,C(C)#N
+6,FC1=CC=C(C=C1N(=O)=O)N(=O)=O.CCCCN>>CCCCNC1=C(C=C(C=C1)N(=O)=O)N(=O)=O,16.13,298.0,Acetonitrile,Acetonitrile,C(C)#N
+7,FC(F)(F)C1=CC=C(F)C(=C1)N(=O)=O.CCCCN>>CCCCNC1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,18.68,298.0,Acetonitrile,Acetonitrile,C(C)#N
+8,N(=O)(=O)C1=CC=C(F)C(=C1)C(F)(F)(F).CCCCN>>CCCCNc1ccc(cc1C(F)(F)F)N(=O)=O,20.75,298.0,Acetonitrile,Acetonitrile,C(C)#N
+9,N(=O)(=O)C1=CC=C(F)C(=C1)C#N.CCCCN>>CCCCNc1ccc(cc1C#N)N(=O)=O,18.79,298.0,Acetonitrile,Acetonitrile,C(C)#N
+10,ClC1=CC=C(C=C1N(=O)=O)N(=O)=O.C3CCCN3>>C3CCCN3C1=C(C=C(C=C1)N(=O)=O)N(=O)=O,17.27,298.0,Acetonitrile,Acetonitrile,C(C)#N
+11,ClC1=C(C=CC=C1N(=O)=O)N(=O)=O.C3CCCN3>>C3CCCN3C1=C(C=CC=C1N(=O)=O)N(=O)=O,19.14,298.0,Acetonitrile,Acetonitrile,C(C)#N
+12,ClC1=NC=C(C=C1)N(=O)=O.C3CCCN3>>C3CCCN3C1=NC=C(C=C1)N(=O)=O,18.97,298.0,Acetonitrile,Acetonitrile,C(C)#N
+13,ClC1=C(C=CC=N1)N(=O)=O.C3CCCN3>>C3CCCN3C1=NC=CC=C1N(=O)=O,18.46,298.0,Acetonitrile,Acetonitrile,C(C)#N
+14,FC(F)(F)C1=CC=C(Cl)C(=C1)N(=O)=O.C3CCCN3>>C3CCCN3C1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,20.15,298.0,Acetonitrile,Acetonitrile,C(C)#N
+15,N(=O)(=O)C1=CC=C(Cl)C(=C1)C#N.C3CCCN3>>C3CCCN3c1ccc(cc1C#N)N(=O)=O,20.04,298.0,Acetonitrile,Acetonitrile,C(C)#N
+16,FC1=CC=C(C=C1N(=O)=O)N(=O)=O.C3CCCN3>>C3CCCN3C1=C(C=C(C=C1)N(=O)=O)N(=O)=O,13.67,298.0,Acetonitrile,Acetonitrile,C(C)#N
+17,FC(F)(F)C1=CC=C(F)C(=C1)N(=O)=O.C3CCCN3>>C3CCCN3C1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,16.47,298.0,Acetonitrile,Acetonitrile,C(C)#N
+18,N(=O)(=O)C1=CC=C(F)C(=C1)C(F)(F)(F).C3CCCN3>>C3CCCN3c1ccc(cc1C(F)(F)F)N(=O)=O,19.68,298.0,Acetonitrile,Acetonitrile,C(C)#N
+20,ClC1=CC=C(C=C1N(=O)=O)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=C(C=C(C=C1)N(=O)=O)N(=O)=O,17.81,298.0,Acetonitrile,Acetonitrile,C(C)#N
+21,ClC1=C(C=CC=C1N(=O)=O)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=C(C=CC=C1N(=O)=O)N(=O)=O,19.66,298.0,Acetonitrile,Acetonitrile,C(C)#N
+22,ClC1=NC=C(C=C1)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=NC=C(C=C1)N(=O)=O,19.44,298.0,Acetonitrile,Acetonitrile,C(C)#N
+23,ClC1=C(C=CC=N1)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=NC=CC=C1N(=O)=O,19.41,298.0,Acetonitrile,Acetonitrile,C(C)#N
+24,FC(F)(F)C1=CC=C(Cl)C(=C1)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,20.9,298.0,Acetonitrile,Acetonitrile,C(C)#N
+25,N(=O)(=O)C1=CC=C(Cl)C(=C1)C#N.C3CCNCC3>>C3CCN(CC3)c1ccc(cc1C#N)N(=O)=O,20.47,298.0,Acetonitrile,Acetonitrile,C(C)#N
+26,FC1=CC=C(C=C1N(=O)=O)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=C(C=C(C=C1)N(=O)=O)N(=O)=O,14.46,298.0,Acetonitrile,Acetonitrile,C(C)#N
+27,FC(F)(F)C1=CC=C(F)C(=C1)N(=O)=O.C3CCNCC3>>C3CCN(CC3)C1=C(C=C(C=C1)C(F)(F)F)N(=O)=O,16.99,298.0,Acetonitrile,Acetonitrile,C(C)#N
+28,N(=O)(=O)C1=CC=C(F)C(=C1)C(F)(F)(F).C3CCNCC3>>C3CCN(CC3)c1ccc(cc1C(F)(F)F)N(=O)=O,21.04,298.0,Acetonitrile,Acetonitrile,C(C)#N
+29,N(=O)(=O)C1=CC=C(F)C(=C1)C#N.C3CCNCC3>>C3CCN(CC3)c1ccc(cc1C#N)N(=O)=O,17.88,298.0,Acetonitrile,Acetonitrile,C(C)#N
+30,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccc([S-])cc1>>Nc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,18.35,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+31,Clc1ccc(cc1N(=O)=O)N(=O)=O.COc1ccc([S-])cc1>>COc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,18.81,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+32,Clc1ccc(cc1N(=O)=O)N(=O)=O.Cc1ccc([S-])cc1>>Cc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.05,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+33,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1c(C)cc([S-])cc1>>c1c(C)cc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.42,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+34,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1ccc([S-])cc1>>c1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.77,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+35,Clc1ccc(cc1N(=O)=O)N(=O)=O.Fc1ccc([S-])cc1>>Fc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.79,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+36,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1c(OC)cc([S-])cc1>>c1c(OC)cc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.75,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+37,Clc1ccc(cc1N(=O)=O)N(=O)=O.Clc1ccc([S-])cc1>>Clc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.16,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+38,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1c(C(=O)C)cc([S-])cc1>>c1c(C(=O)C)cc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.04,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+39,Clc1ccc(cc1N(=O)=O)N(=O)=O.Brc1ccc([S-])cc1>>Brc1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.24,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+40,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1c(Cl)cc([S-])cc1>>c1c(Cl)cc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.49,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+41,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1c(Br)cc([S-])cc1>>c1c(Br)cc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.44,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+42,Clc1ccc(cc1N(=O)=O)N(=O)=O.CC(=O)c1ccc([S-])cc1>>CC(=O)c1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.49,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+43,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1cc(C)c([S-])cc1>>c1cc(C)c(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.7,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+44,Clc1ccc(cc1N(=O)=O)N(=O)=O.c1cc(N)c([S-])cc1>>c1cc(N)c(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,19.42,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+45,Clc1ccc(cc1N(=O)=O)N(=O)=O.N(=O)(=O)c1ccc([S-])cc1>>N(=O)(=O)c1ccc(Sc2ccc(cc2N(=O)=O)N(=O)=O)cc1,20.86,298.0,Ethanol:Water(95% v/v),Ethanol,C(C)O
+46,COc1sc(cc1S(=O)(=O)C)N(=O)(=O).C1CCNCC1>>CS(=O)(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),16.27,293.0,DMSO,DMSO,CS(=O)C
+47,COc1sc(cc1C(=O)OC)N(=O)(=O).C1CCNCC1>>COC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),17.5,293.0,DMSO,DMSO,CS(=O)C
+48,COc1sc(cc1C(=O)N)N(=O)(=O).C1CCNCC1>>NC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),17.7,293.0,DMSO,DMSO,CS(=O)C
+49,COc1sc(cc1)N(=O)(=O).C1CCNCC1>>c1cc(sc1N2CCCCC2)N(=O)(=O),19.27,293.0,DMSO,DMSO,CS(=O)C
+50,COc1sc(cc1S(=O)(=O)C)N(=O)(=O).C1CCNCC1>>CS(=O)(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),17.22,293.0,Acetonitrile,Acetonitrile,C(C)#N
+51,COc1sc(cc1C(=O)OC)N(=O)(=O).C1CCNCC1>>COC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),18.12,293.0,Acetonitrile,Acetonitrile,C(C)#N
+52,COc1sc(cc1C(=O)N)N(=O)(=O).C1CCNCC1>>NC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),18.77,293.0,Acetonitrile,Acetonitrile,C(C)#N
+53,COc1sc(cc1)N(=O)(=O).C1CCNCC1>>c1cc(sc1N2CCCCC2)N(=O)(=O),20.35,293.0,Acetonitrile,Acetonitrile,C(C)#N
+54,COc1sc(cc1S(=O)(=O)C)N(=O)(=O).C1CCNCC1>>CS(=O)(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),18.62,293.0,Methanol,Methanol,CO
+55,COc1sc(cc1C(=O)OC)N(=O)(=O).C1CCNCC1>>COC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),19.35,293.0,Methanol,Methanol,CO
+56,COc1sc(cc1C(=O)N)N(=O)(=O).C1CCNCC1>>NC(=O)c1cc(sc1N2CCCCC2)N(=O)(=O),20.01,293.0,Methanol,Methanol,CO
+57,COc1sc(cc1)N(=O)(=O).C1CCNCC1>>c1cc(sc1N2CCCCC2)N(=O)(=O),22.02,293.0,Methanol,Methanol,CO
+58,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.COc1ccc(CN)cc1>>COc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,15.29,298.0,Acetonitrile,Acetonitrile,C(C)#N
+59,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,15.39,298.0,Acetonitrile,Acetonitrile,C(C)#N
+60,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,15.66,298.0,Acetonitrile,Acetonitrile,C(C)#N
+61,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,15.99,298.0,Acetonitrile,Acetonitrile,C(C)#N
+62,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.COc1ccc(CN)cc1>>COc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,16.13,298.0,Acetonitrile,Acetonitrile,C(C)#N
+63,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,16.2,298.0,Acetonitrile,Acetonitrile,C(C)#N
+64,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,16.47,298.0,Acetonitrile,Acetonitrile,C(C)#N
+65,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,16.8,298.0,Acetonitrile,Acetonitrile,C(C)#N
+66,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.OCc1ccc(CN)cc1>>OCc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,17.39,298.0,Acetonitrile,Acetonitrile,C(C)#N
+67,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,17.5,298.0,Acetonitrile,Acetonitrile,C(C)#N
+68,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,17.71,298.0,Acetonitrile,Acetonitrile,C(C)#N
+69,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,18.05,298.0,Acetonitrile,Acetonitrile,C(C)#N
+70,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.COc1ccc(CN)cc1>>COc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,16.75,298.0,Methanol,Methanol,CO
+71,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,16.89,298.0,Methanol,Methanol,CO
+72,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,16.92,298.0,Methanol,Methanol,CO
+73,Clc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)N(=O)=O)N(=O)=O)cc1,17.12,298.0,Methanol,Methanol,CO
+74,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.COc1ccc(CN)cc1>>COc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,17.6,298.0,Methanol,Methanol,CO
+75,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,17.76,298.0,Methanol,Methanol,CO
+76,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,17.84,298.0,Methanol,Methanol,CO
+77,Clc1c(cc(cc1N(=O)=O)C#N)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)C#N)N(=O)=O)cc1,18.04,298.0,Methanol,Methanol,CO
+78,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.OCc1ccc(CN)cc1>>OCc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,18.79,298.0,Methanol,Methanol,CO
+79,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.Cc1ccc(CN)cc1>>Cc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,18.85,298.0,Methanol,Methanol,CO
+80,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.c1ccc(CN)cc1>>c1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,18.96,298.0,Methanol,Methanol,CO
+81,Clc1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O.Clc1ccc(CN)cc1>>Clc1ccc(CNc2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O)cc1,19.22,298.0,Methanol,Methanol,CO
+82,c1c(Cl)ccc(Cl)c1.C[O-]>>c1c(OC)ccc(Cl)c1,38.63,323.0,Methanol,Methanol,CO
+83,c1c(Cl)ccc(C(F)(F)(F))c1.C[O-]>>c1c(OC)ccc(C(F)(F)(F))c1,34.09,323.0,Methanol,Methanol,CO
+84,c1c(Cl)ccc(OC(=O)C)c1.C[O-]>>c1c(OC)ccc(OC(=O)C)c1,31.48,323.0,Methanol,Methanol,CO
+85,c1c(Cl)ccc([N+]([O-])(=O))c1.C[O-]>>c1c(OC)ccc([N+]([O-])(=O))c1,26.43,323.0,Methanol,Methanol,CO
+86,c1c(Cl)cccc1.C[O-]>>c1c(OC)cccc1,42.44,323.0,Methanol,Methanol,CO
+87,Clc1ccc(cc1N(=O)=O).C[O-]>>COc1ccc(cc1N(=O)=O),26.56,273.0,Methanol,Methanol,CO
+88,Clc1ccc(cc1N(=O)=O)N(=O)=O.C[O-]>>COc1ccc(cc1N(=O)=O)N(=O)=O,19.28,273.0,Methanol,Methanol,CO
+89,Clc1ccc(cc1N(=O)=O)C#N.C[O-]>>COc1ccc(cc1N(=O)=O)C#N,20.84,273.0,Methanol,Methanol,CO
+90,Clc1ccc(cc1N(=O)=O)C(=O).C[O-]>>COc1ccc(cc1N(=O)=O)C(=O),21.18,273.0,Methanol,Methanol,CO
+91,Clc1ccc(cc1N(=O)=O)C(=O)C.C[O-]>>COc1ccc(cc1N(=O)=O)C(=O)C,21.68,273.0,Methanol,Methanol,CO
+92,Clc1ccc(cc1N(=O)=O)N(=O).C[O-]>>COc1ccc(cc1N(=O)=O)N(=O),18.17,273.0,Methanol,Methanol,CO
+93,FC1=C(F)C2=C(C=C1)C(F)=C(F)C(F)=C2F.[Na+].C[O-]>>COC1=C(F)C2=C(C=CC(F)=C2F)C(F)=C1F,23.34,298.0,Methanol,Methanol,CO
+94,FC1=C(F)C2=C(C(F)=C1F)C(F)=C(F)C(F)=C2F.[Na+].C[O-]>>COC1=C(F)C2=C(C(F)=C(F)C(F)=C2F)C(F)=C1F,21.44,298.0,Methanol,Methanol,CO
+95,FC1=C(F)C2=C(C(F)=C1)C(F)=C(F)C(F)=C2F.[Na+].C[O-]>>COC1=C(F)C2=C(C(F)=CC(F)=C2F)C(F)=C1F,21.32,298.0,Methanol,Methanol,CO
+96,C1=C(F)C2=C(C(F)=C1F)C(F)=CC(F)=C2F.[Na+].C[O-]>>C1=C(F)C2=C(C(F)=C1(OC))C(F)=CC(F)=C2F,25.4,298.0,Methanol,Methanol,CO
+97,C1=C(F)C2=C(C(F)=C1F)C(F)=CC(F)=C2F.[Na+].C[O-]>>C1=C(OC)C2=C(C(F)=C1(F))C(F)=CC(F)=C2(F),26.14,298.0,Methanol,Methanol,CO
+98,C1=C(F)C2=C(C(F)=C1F)C(F)=CC(F)=C2F.[Na+].C[O-]>>C1=C(F)C2=C(C(OC)=C1(F))C(F)=CC(F)=C2(F),26.55,298.0,Methanol,Methanol,CO
+99,C1=C(F)C2=C(C(F)=C1F)C(F)=C(F)C(F)=C2F.[Na+].C[O-]>>C1=C(F)C2=C(C(F)=C1(OC))C(F)=C(F)C(F)=C2(F),23.33,298.0,Methanol,Methanol,CO
+100,Fc1nc(F)nc(F)c1F.C[O-].[Na+]>>COc1nc(F)nc(F)c1F,12.53,298.0,Methanol,Methanol,CO
+101,Fc1nc(F)nc(F)c1.C[O-].[Na+]>>Fc1nc(OC)nc(F)c1,14.47,298.0,Methanol,Methanol,CO
+102,Fc1nc(F)nc(F)c1.C[O-].[Na+]>>Fc1nc(F)nc(OC)c1,14.53,298.0,Methanol,Methanol,CO
+103,c1nc(F)nc(F)c1F.C[O-].[Na+]>>c1nc(F)nc(OC)c1F,13.06,298.0,Methanol,Methanol,CO
+104,Fc1nc(F)c(F)c(F)c1F.C[O-].[Na+]>>COc1c(F)c(F)nc(F)c1F,15.85,298.0,Methanol,Methanol,CO
+105,Fc1nc(F)cc(F)c1F.C[O-].[Na+]>>COc1cc(F)nc(F)c1F,17.73,298.0,Methanol,Methanol,CO
+106,Fc1nc(F)cc(F)c1F.C[O-].[Na+]>>Fc1cc(OC)nc(F)c1F,19.5,298.0,Methanol,Methanol,CO
+107,c1nc(F)c(F)c(F)c1F.C[O-].[Na+]>>c1nc(F)c(F)c(OC)c1F,17.46,298.0,Methanol,Methanol,CO
+108,Fc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,13.91,298.0,Acetonitrile,Acetonitrile,C(C)#N
+109,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCNCC1>>O=N(=O)c1ccc(N2CCNCC2)c(c1)N(=O)=O,13.89,298.0,Acetonitrile,Acetonitrile,C(C)#N
+110,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCN(CCO)CC1>>O=N(=O)c1ccc(N2CCN(CCO)CC2)c(c1)N(=O)=O,15.21,298.0,Acetonitrile,Acetonitrile,C(C)#N
+111,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCN(C=O)CC1>>O=N(=O)c1ccc(N2CCN(C=O)CC2)c(c1)N(=O)=O,16.0,298.0,Acetonitrile,Acetonitrile,C(C)#N
+112,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCOCC1>>O=N(=O)c1ccc(N2CCOCC2)c(c1)N(=O)=O,15.72,298.0,Acetonitrile,Acetonitrile,C(C)#N
+113,Fc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,16.1,298.0,Water,Water,O
+114,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCNCC1>>O=N(=O)c1ccc(N2CCNCC2)c(c1)N(=O)=O,16.42,298.0,Water,Water,O
+115,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCN(CCO)CC1>>O=N(=O)c1ccc(N2CCN(CCO)CC2)c(c1)N(=O)=O,17.21,298.0,Water,Water,O
+116,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCN(C=O)CC1>>O=N(=O)c1ccc(N2CCN(C=O)CC2)c(c1)N(=O)=O,17.38,298.0,Water,Water,O
+117,Fc1ccc(cc1N(=O)=O)N(=O)=O.N1CCOCC1>>O=N(=O)c1ccc(N2CCOCC2)c(c1)N(=O)=O,17.9,298.0,Water,Water,O
+118,Fc1ccc(cc1N(=O)=O)N(=O)=O.[NH2+]1CCNCC1>>O=N(=O)c1ccc(N2CC[N+]CC2)c(c1)N(=O)=O,19.86,298.0,Water,Water,O
+119,Clc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,20.77,293.0,Methanol,Methanol,CO
+120,Fc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,16.94,293.0,Methanol,Methanol,CO
+121,Brc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,21.01,293.0,Methanol,Methanol,CO
+122,Ic1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,21.71,293.0,Methanol,Methanol,CO
+123,c2ccc(cc2)Oc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,21.72,293.0,Methanol,Methanol,CO
+124,c2c(Br)cc(cc2)Oc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,21.04,293.0,Methanol,Methanol,CO
+125,c2c(Cl)cc(cc2)Oc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,21.03,293.0,Methanol,Methanol,CO
+126,c2c(N(=O)(=O))cc(cc2)Oc1ccc(cc1N(=O)=O)N(=O)=O.C[O-].[Na+]>>COc1ccc(cc1N(=O)=O)N(=O)=O,20.47,293.0,Methanol,Methanol,CO
+127,Clc1ccncc1N(=O)=O.C[O-].[Na+]>>COc1ccncc1N(=O)=O,21.09,293.0,Methanol,Methanol,CO
+128,Brc1ccncc1N(=O)=O.C[O-].[Na+]>>COc1ccncc1N(=O)=O,21.13,293.0,Methanol,Methanol,CO
+129,Fc1ccc(cc1)N(=O)=O.C[S-]>>CSc1ccc(cc1)N(=O)=O,20.77,273.0,Methanol,Methanol,CO
+130,Ic1ccc(cc1)N(=O)=O.C[S-]>>CSc1ccc(cc1)N(=O)=O,25.22,273.0,Methanol,Methanol,CO
+131,Fc1ccc(cc1N(=O)=O)N(=O)=O.C[S-]>>CSc1ccc(cc1N(=O)=O)N(=O)=O,13.2,273.0,Methanol,Methanol,CO
+132,Ic1ccc(cc1N(=O)=O)N(=O)=O.C[S-]>>CSc1ccc(cc1N(=O)=O)N(=O)=O,20.15,273.0,Methanol,Methanol,CO
+133,Fc1ccc(cc1N(=O)=O)N(=O)=O.C[O-]>>COc1ccc(cc1N(=O)=O)N(=O)=O,15.61,273.0,Methanol,Methanol,CO
+134,Brc1ccc(cc1N(=O)=O)N(=O)=O.C[O-]>>COc1ccc(cc1N(=O)=O)N(=O)=O,19.19,273.0,Methanol,Methanol,CO
+135,Ic1ccc(cc1N(=O)=O)N(=O)=O.C[O-]>>COc1ccc(cc1N(=O)=O)N(=O)=O,20.3,273.0,Methanol,Methanol,CO
+136,Clc1ccc(cc1N(=O)=O)N(=O)=O.CN>>CNc1ccc(cc1N(=O)=O)N(=O)=O,20.83,298.0,Ethanol,Ethanol,C(C)O
+137,Clc1ccc(cc1N(=O)=O)N(=O)=O.CN(C)>>CN(C)c1ccc(cc1N(=O)=O)N(=O)=O,19.4,298.0,Ethanol,Ethanol,C(C)O
+138,Clc1ccc(cc1N(=O)=O)N(=O)=O.CCN>>CCNc1ccc(cc1N(=O)=O)N(=O)=O,21.56,298.0,Ethanol,Ethanol,C(C)O
+139,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>C2CCN(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,19.9,298.0,Ethanol,Ethanol,C(C)O
+140,Clc1ccc(cc1N(=O)=O)N(=O)=O.CCN(CC)>>CCN(CC)c1ccc(cc1N(=O)=O)N(=O)=O,22.49,298.0,Ethanol,Ethanol,C(C)O
+141,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNC(C)C1>>C2CC(C)N(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,23.77,298.0,Ethanol,Ethanol,C(C)O
+142,Clc1ccc(cc1N(=O)=O)N(=O)=O.N>>Nc1ccc(cc1N(=O)=O)N(=O)=O,24.78,298.0,Ethanol,Ethanol,C(C)O
+143,Clc1ccc(cc1N(=O)=O)N(=O)=O.CN(C)(C)>>C[N+](C)(C)c1ccc(cc1N(=O)=O)N(=O)=O,24.81,298.0,Ethanol,Ethanol,C(C)O
+144,Clc1ccc(cc1N(=O)=O)N(=O)=O.CC(C)CN(CC(C)C)>>CC(C)CN(CC(C)C)c1ccc(cc1N(=O)=O)N(=O)=O,23.19,298.0,Ethanol,Ethanol,C(C)O
+145,Clc1ccc(cc1N(=O)=O)N(=O)=O.CCCCN>>CCCCNc1ccc(cc1N(=O)=O)N(=O)=O,21.51,298.0,Ethanol,Ethanol,C(C)O
+146,Clc1ccc(cc1N(=O)=O)N(=O)=O.CC(C)CN>>CC(C)CNc1ccc(cc1N(=O)=O)N(=O)=O,21.74,298.0,Ethanol,Ethanol,C(C)O
+147,Clc1ccc(cc1N(=O)=O)N(=O)=O.CCCN>>CCCNc1ccc(cc1N(=O)=O)N(=O)=O,21.53,298.0,Ethanol,Ethanol,C(C)O
+148,Fc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccccc1>>O=N(=O)c1ccc(Nc2ccccc2)c(c1)N(=O)=O,21.56,323.0,Ethanol,Ethanol,C(C)O
+149,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccccc1>>O=N(=O)c1ccc(Nc2ccccc2)c(c1)N(=O)=O,24.21,323.0,Ethanol,Ethanol,C(C)O
+150,Brc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccccc1>>O=N(=O)c1ccc(Nc2ccccc2)c(c1)N(=O)=O,23.95,323.0,Ethanol,Ethanol,C(C)O
+151,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>O=N(=O)c1ccc(Nc2cc(Cl)ccc2)c(c1)N(=O)=O,25.88,323.0,Ethanol,Ethanol,C(C)O
+152,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1cc(Br)ccc1>>O=N(=O)c1ccc(Nc2cc(Br)ccc2)c(c1)N(=O)=O,25.82,323.0,Ethanol,Ethanol,C(C)O
+153,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>O=N(=O)c1ccc(Nc2ccc(Cl)cc2)c(c1)N(=O)=O,25.14,323.0,Ethanol,Ethanol,C(C)O
+154,Clc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccc(Br)cc1>>O=N(=O)c1ccc(Nc2ccc(Br)cc2)c(c1)N(=O)=O,25.23,323.0,Ethanol,Ethanol,C(C)O
+155,Fc1ccc(cc1N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>O=N(=O)c1ccc(Nc2cc(Cl)ccc2)c(c1)N(=O)=O,22.83,323.0,Ethanol,Ethanol,C(C)O
+156,Fc1ccc(cc1N(=O)=O)N(=O)=O.Nc1cc(Br)ccc1>>O=N(=O)c1ccc(Nc2cc(Br)ccc2)c(c1)N(=O)=O,23.04,323.0,Ethanol,Ethanol,C(C)O
+157,Fc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>O=N(=O)c1ccc(Nc2ccc(Cl)cc2)c(c1)N(=O)=O,23.75,323.0,Ethanol,Ethanol,C(C)O
+158,Fc1ccc(cc1N(=O)=O)N(=O)=O.Nc1ccc(Br)cc1>>O=N(=O)c1ccc(Nc2ccc(Br)cc2)c(c1)N(=O)=O,23.82,323.0,Ethanol,Ethanol,C(C)O
+159,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1C(C(F)(F)F)CNCC1>>C2C(C(F)(F)F)CN(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,21.53,298.0,Ethanol,Ethanol,C(C)O
+160,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1(C(F)(F)F)CCNCC1>>C2(C(F)(F)F)CCN(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,20.9,298.0,Ethanol,Ethanol,C(C)O
+161,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1OCCNC1>>O2CCN(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,20.67,298.0,Ethanol,Ethanol,C(C)O
+162,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1NCCNC1>>N2CCN(CC2)c1ccc(cc1N(=O)=O)N(=O)=O,19.55,298.0,Ethanol,Ethanol,C(C)O
+163,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNC1>>C2CCN(C2)c1ccc(cc1N(=O)=O)N(=O)=O,19.25,298.0,Ethanol,Ethanol,C(C)O
+164,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.COc1ccc(N)cc1>>COc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.06,298.0,Methanol,Methanol,CO
+165,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.Cc1ccc(N)cc1>>Cc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.27,298.0,Methanol,Methanol,CO
+166,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.c1ccc(N)cc1>>c1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.56,298.0,Methanol,Methanol,CO
+167,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.Fc1ccc(N)cc1>>Fc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.6,298.0,Methanol,Methanol,CO
+168,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.Clc1ccc(N)cc1>>Clc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,21.09,298.0,Methanol,Methanol,CO
+169,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccccc2)c(c1)N(=O)=O,19.46,298.0,Methanol,Methanol,CO
+170,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c(OC)1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccc(OC)cc2)c(c1)N(=O)=O,18.07,298.0,Methanol,Methanol,CO
+171,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c(C)1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccc(C)cc2)c(c1)N(=O)=O,18.61,298.0,Methanol,Methanol,CO
+172,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c(Cl)1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccc(Cl)cc2)c(c1)N(=O)=O,20.55,298.0,Methanol,Methanol,CO
+173,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c(Br)1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccc(Br)cc2)c(c1)N(=O)=O,20.45,298.0,Methanol,Methanol,CO
+174,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c(C(=O)C)1ccc(N)cc1>>O=N(=O)c1cnc(Nc2ccc(C(=O)C)cc2)c(c1)N(=O)=O,21.45,298.0,Methanol,Methanol,CO
+175,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c1c(OC)cc(N)cc1>>O=N(=O)c1cnc(Nc2cc(OC)ccc2)c(c1)N(=O)=O,19.49,298.0,Methanol,Methanol,CO
+176,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c1c(C)cc(N)cc1>>O=N(=O)c1cnc(Nc2cc(C)ccc2)c(c1)N(=O)=O,19.21,298.0,Methanol,Methanol,CO
+177,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c1c(Cl)cc(N)cc1>>O=N(=O)c1cnc(Nc2cc(Cl)ccc2)c(c1)N(=O)=O,21.02,298.0,Methanol,Methanol,CO
+178,Clc1n(cc(cc1N(=O)(=O))N(=O)=O).c1c(Br)cc(N)cc1>>O=N(=O)c1cnc(Nc2cc(Br)ccc2)c(c1)N(=O)=O,20.9,298.0,Methanol,Methanol,CO
+179,Fc1nc(F)c(F)c(Cl)c1F.N>>Nc1nc(F)c(F)c(Cl)c1F,25.34,298.0,Dioxane:Water (60:40 v/v),Water,O
+180,Fc1nc(F)cc(Cl)c1F.N>>Nc1cc(Cl)c(F)c(F)n1,24.55,298.0,Dioxane:Water (60:40 v/v),Water,O
+181,Fc1nc(F)c(F)nc1F.N>>Nc1nc(F)c(F)nc1F,23.27,298.0,Dioxane:Water (60:40 v/v),Water,O
+182,Fc1nc(F)c(F)c(F)c1F.N>>Nc1c(F)c(F)nc(F)c1F,21.74,298.0,Dioxane:Water (60:40 v/v),Water,O
+183,Fc1nc(F)c(F)c(F)c1Cl.N>>Nc1c(F)c(F)nc(F)c1Cl,21.13,298.0,Dioxane:Water (60:40 v/v),Water,O
+184,Fc1nnc(F)c(F)c1F.N>>Nc1c(F)nnc(F)c1F,19.6,298.0,Dioxane:Water (60:40 v/v),Water,O
+185,Fc1nc(F)c(F)c(n1)F.N>>Nc1nc(F)nc(F)c1F,17.25,298.0,Dioxane:Water (60:40 v/v),Water,O
+186,Clc1nc(Cl)c(Cl)c(Cl)c1Cl.N>>Nc1c(Cl)c(Cl)nc(Cl)c1Cl,26.65,298.0,Dioxane:Water (60:40 v/v),Water,O
+187,Clc1nnc(Cl)c(Cl)c1Cl.N>>Nc1c(Cl)nnc(Cl)c1Cl,24.19,298.0,Dioxane:Water (60:40 v/v),Water,O
+188,Clc1nc(Cl)c(Cl)c(Cl)n1.N>>Nc1nc(Cl)nc(Cl)c1Cl,20.85,298.0,Dioxane:Water (60:40 v/v),Water,O
+189,Fc1nc(F)c(c(F)c1F)C(F)(F)F.N>>Nc1c(F)c(F)nc(F)c1C(F)(F)F,19.16,298.0,Dioxane:Water (60:40 v/v),Water,O
+190,Fc1nc(F)c(c(F)c1F)C(F)(F)F.N>>Nc1nc(F)c(c(F)c1F)C(F)(F)F,19.57,298.0,Dioxane:Water (60:40 v/v),Water,O
+191,Fc1nc(F)c(c(F)c1C(F)(F)F)C(F)(F)F.N>>Nc1c(c(F)nc(F)c1C(F)(F)F)C(F)(F)F,16.7,298.0,Dioxane:Water (60:40 v/v),Water,O
+192,Fc1nc(F)c(c(F)c1C(F)(F)F)C(F)(F)F.N>>Nc1nc(F)c(c(F)c1C(F)(F)F)C(F)(F)F,17.26,298.0,Dioxane:Water (60:40 v/v),Water,O
+193,Fc1cc(F)c(F)c(F)n1.N>>Nc1cc(F)nc(F)c1F,18.06,298.0,Dioxane:Water (60:40 v/v),Water,O
+194,Fc1cc(F)c(F)c(F)n1.N>>Nc1cc(F)c(F)c(F)n1,18.14,298.0,Dioxane:Water (60:40 v/v),Water,O
+195,Fc1c(F)c(F)c(c(F)c1F)C(F)(F)F.N>>Nc1c(F)c(F)c(c(F)c1F)C(F)(F)F,25.88,353.0,Dioxane:Water (60:40 v/v),Water,O
+196,Fc1cc(F)nc(F)c1.N>>Nc1cc(F)nc(F)c1,25.81,298.0,Dioxane:Water (60:40 v/v),Water,O
+197,Fc1cc(F)nc(F)c1.N>>Nc1cc(F)cc(F)n1,26.55,298.0,Dioxane:Water (60:40 v/v),Water,O
+198,Fc1nc(F)c(Cl)c(F)c1Cl.N>>Nc1c(Cl)c(F)nc(F)c1Cl,20.59,298.0,Dioxane:Water (60:40 v/v),Water,O
+199,Fc1cnc(F)c(F)c1F.N>>Nc1c(F)cnc(F)c1F,23.6,298.0,Dioxane:Water (60:40 v/v),Water,O
+200,Fc1nc(Cl)c(F)c(F)c1F.N>>Nc1c(F)c(F)nc(Cl)c1F,21.71,298.0,Dioxane:Water (60:40 v/v),Water,O
+201,Fc1nc(F)c(Cl)c(Cl)c1F.N>>Nc1nc(F)c(F)c(Cl)c1Cl,24.66,298.0,Dioxane:Water (60:40 v/v),Water,O
+202,Fc1nc(F)c(Cl)c(Cl)c1F.N>>Nc1nc(F)c(Cl)c(Cl)c1F,23.4,298.0,Dioxane:Water (60:40 v/v),Water,O
+203,Fc1nc(F)c(Cl)c(Cl)c1Cl.N>>Nc1nc(F)c(Cl)c(Cl)c1Cl,22.72,298.0,Dioxane:Water (60:40 v/v),Water,O
+204,Fc1c(F)c(Cl)nc(Cl)c1F.N>>Nc1c(F)c(Cl)nc(Cl)c1F,21.77,298.0,Dioxane:Water (60:40 v/v),Water,O
+205,Fc1nc(F)c(F)c(F)c1F.CCNCC>>CCN(CC)c1c(F)c(F)nc(F)c1F,20.55,298.0,Dioxane,Dioxane,O1CCOCC1
+206,Fc1nc(F)c(F)c(F)c1F.CCNCC>>CCN(CC)c1c(F)c(F)nc(F)c1F,20.03,298.0,Nitrobenzene,Nitrobenzene,[N+](=O)([O-])C1=CC=CC=C1
+207,Fc1nc(F)c(F)c(F)c1Cl.CCNCC>>CCN(CC)c1c(F)c(F)nc(F)c1Cl,21.53,298.0,Dioxane,Dioxane,O1CCOCC1
+208,Fc1nc(F)c(F)c(F)c1Cl.CCNCC>>CCN(CC)c1nc(F)c(Cl)c(F)c1F,21.19,298.0,Dioxane,Dioxane,O1CCOCC1
+209,Fc1nc(F)c(F)c(Cl)c1F.CCNCC>>CCN(CC)c1nc(F)c(F)c(Cl)c1F,23.05,298.0,Dioxane,Dioxane,O1CCOCC1
+210,Fc1nc(F)c(Cl)c(F)c1Cl.CCNCC>>CCN(CC)c1nc(F)c(Cl)c(F)c1Cl,21.43,298.0,Dioxane,Dioxane,O1CCOCC1
+211,Fc1nc(F)c(Cl)c(Cl)c1F.CCNCC>>CCN(CC)c1nc(F)c(Cl)c(Cl)c1F,21.12,298.0,Dioxane,Dioxane,O1CCOCC1
+212,Fc1c(F)c(Cl)nc(Cl)c1F.CCNCC>>CCN(CC)c1c(F)c(Cl)nc(Cl)c1F,20.86,298.0,Dioxane,Dioxane,O1CCOCC1
+213,Fc1nc(F)c(Cl)c(Cl)c1Cl.CCNCC>>CCN(CC)c1nc(F)c(Cl)c(Cl)c1Cl,21.7,298.0,Dioxane,Dioxane,O1CCOCC1
+214,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.89,298.0,DMSO,DMSO,CS(=O)C
+215,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.86,298.0,Acetonitrile,Acetonitrile,C(C)#N
+216,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.18,298.0,DMF,DMF,CN(C=O)C
+217,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,27.5,298.0,Water,Water,O
+218,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,27.23,298.0,Methanol,Methanol,CO
+219,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.18,298.0,TMS,TMS,C[Si](C)(C)C
+220,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.77,298.0,PC,PC,C1(OCC(C)O1)=O
+221,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,22.52,298.0,MeNO2,MeNO2,[N+](=O)([O-])C
+222,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,18.92,298.0,HMPT,HMPT,CN(P(=O)(N(C)C)N(C)C)C
+223,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,21.24,323.0,DMSO,DMSO,CS(=O)C
+224,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.11,323.0,DMSO,DMSO,CS(=O)C
+225,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.98,323.0,DMSO,DMSO,CS(=O)C
+226,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.93,323.0,DMSO,DMSO,CS(=O)C
+227,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,23.72,323.0,DMSO,DMSO,CS(=O)C
+228,[O-][N+](=O)c1ccc(Oc2ccc(cc2)[N+](=O)[O-])cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.43,323.0,DMSO,DMSO,CS(=O)C
+229,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,22.09,323.0,DMF,DMF,CN(C=O)C
+230,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.79,323.0,DMF,DMF,CN(C=O)C
+231,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.68,323.0,DMF,DMF,CN(C=O)C
+232,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.56,323.0,DMF,DMF,CN(C=O)C
+233,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.57,323.0,DMF,DMF,CN(C=O)C
+234,[O-][N+](=O)c1ccc(Oc2ccc(cc2)[N+](=O)[O-])cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.38,323.0,DMF,DMF,CN(C=O)C
+235,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,23.28,323.0,Acetonitrile,Acetonitrile,C(C)#N
+236,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.7,323.0,Acetonitrile,Acetonitrile,C(C)#N
+237,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.61,323.0,Acetonitrile,Acetonitrile,C(C)#N
+238,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.32,323.0,Acetonitrile,Acetonitrile,C(C)#N
+239,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.93,323.0,Acetonitrile,Acetonitrile,C(C)#N
+240,[O-][N+](=O)c1ccc(Oc2ccc(cc2)[N+](=O)[O-])cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.35,323.0,Acetonitrile,Acetonitrile,C(C)#N
+241,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.0,323.0,Benzonitrile,Benzonitrile,C(C1=CC=CC=C1)#N
+242,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.06,323.0,Benzonitrile,Benzonitrile,C(C1=CC=CC=C1)#N
+243,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.93,323.0,Benzonitrile,Benzonitrile,C(C1=CC=CC=C1)#N
+244,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.79,323.0,Benzonitrile,Benzonitrile,C(C1=CC=CC=C1)#N
+245,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.42,323.0,Benzonitrile,Benzonitrile,C(C1=CC=CC=C1)#N
+247,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.33,323.0,MEK,MEK,CC(CC)=O
+248,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.23,323.0,MEK,MEK,CC(CC)=O
+249,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.96,323.0,MEK,MEK,CC(CC)=O
+250,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.79,323.0,MEK,MEK,CC(CC)=O
+251,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.36,323.0,MEK,MEK,CC(CC)=O
+252,[O-][N+](=O)c1ccc(Oc2ccc(cc2)[N+](=O)[O-])cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.77,323.0,MEK,MEK,CC(CC)=O
+253,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,25.38,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+254,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.52,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+255,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.02,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+256,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.38,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+257,[O-][N+](=O)c1ccc([N+]([O-])(=O))cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.4,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+258,[O-][N+](=O)c1ccc(Oc2ccc(cc2)[N+](=O)[O-])cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.13,323.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+259,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,26.94,323.0,Benzene,Benzene,C1=CC=CC=C1
+260,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.97,323.0,Benzene,Benzene,C1=CC=CC=C1
+261,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,28.63,323.0,Benzene,Benzene,C1=CC=CC=C1
+262,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,29.75,323.0,Benzene,Benzene,C1=CC=CC=C1
+265,[O-][N+](=O)c1ccc(F)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,24.62,323.0,Ethanol,Ethanol,C(C)O
+266,[O-][N+](=O)c1ccc(Cl)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.91,323.0,Ethanol,Ethanol,C(C)O
+267,[O-][N+](=O)c1ccc(Br)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,27.85,323.0,Ethanol,Ethanol,C(C)O
+268,[O-][N+](=O)c1ccc(I)cc1.C1CCNCC1>>[O-][N+](=O)c1ccc(cc1)N2CCCCC2,29.75,323.0,Ethanol,Ethanol,C(C)O
+271,c1c(Cl)ccc(Cl)c1.C[O-]>>c1c(OC)ccc(Cl)c1,39.4,468.4,Methanol,Methanol,CO
+272,c1c(Cl)ccc(C(F)(F)F)c1.C[O-]>>c1c(OC)ccc(C(F)(F)F)c1,35.24,432.6,Methanol,Methanol,CO
+273,c1c(Cl)ccc(OC(=O)C)c1.C[O-]>>c1c(OC)ccc(OC(=O)C)c1,32.52,432.5,Methanol,Methanol,CO
+274,c1c(Cl)ccc([N+]([O-])(=O))c1.C[O-]>>c1c(OC)ccc([N+]([O-])(=O))c1,26.6,344.0,Methanol,Methanol,CO
+276,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.Cc1cccc(C)c1[O-]>>c1ccc(C)c(Oc2nc(OC)nc(OC)n2)c(C)1,20.92,298.0,10% dioxane:water(v/v),water,O
+277,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.Cc1ccc([O-])cc1>>Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,19.48,298.0,10% dioxane:water(v/v),water,O
+278,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.c1ccc([O-])cc1>>c1cccc(Oc2nc(OC)nc(OC)n2)c1,19.87,298.0,10% dioxane:water(v/v),water,O
+279,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.Clc1ccc([O-])cc1>>Clc1ccc(Oc2nc(OC)nc(OC)n2)cc1,20.01,298.0,10% dioxane:water(v/v),water,O
+280,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,20.59,298.0,10% dioxane:water(v/v),water,O
+281,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,21.59,298.0,10% dioxane:water(v/v),water,O
+282,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.CC(=O)c1ccc([O-])cc1>>CC(=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.28,298.0,10% dioxane:water(v/v),water,O
+283,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.22,298.0,10% dioxane:water(v/v),water,O
+284,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1ccc(C=O)cc1>>C(=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.89,298.0,10% dioxane:water(v/v),water,O
+285,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1cccc(Cl)c1Cl>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1Cl,22.7,298.0,10% dioxane:water(v/v),water,O
+286,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1c(F)cccc1F>>Fc1cccc(F)c1Oc2nc(OC)nc(OC)n2,22.92,298.0,10% dioxane:water(v/v),water,O
+287,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1c(Cl)cccc1Cl>>Clc1cccc(Cl)c1Oc2nc(OC)nc(OC)n2,26.01,298.0,10% dioxane:water(v/v),water,O
+288,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1cc(Cl)c(Cl)cc1Cl>>Clc1cc(Cl)c(Oc2nc(OC)nc(OC)n2)cc1Cl,23.22,298.0,10% dioxane:water(v/v),water,O
+289,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1cc(Cl)cc(Cl)c1Cl>>Clc1cc(Cl)c(Cl)c(Oc2nc(OC)nc(OC)n2)c1,23.82,298.0,10% dioxane:water(v/v),water,O
+290,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1cc(Cl)c(Cl)c(Cl)c1Cl>>Clc1cc(Oc2nc(OC)nc(OC)n2)c(Cl)c(Cl)c1Cl,25.13,298.0,10% dioxane:water(v/v),water,O
+291,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,18.92,298.0,10% dioxane:water(v/v),water,O
+292,[O-][N+](=O)c1cc(Oc2nc(OC)nc(OC)n2)cc(c1)[N+](=O)[O-].[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,19.06,298.0,10% dioxane:water(v/v),water,O
+293,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)c(Cl)c1.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,17.38,298.0,10% dioxane:water(v/v),water,O
+294,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1Cl.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,19.59,298.0,10% dioxane:water(v/v),water,O
+295,O=Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,20.48,298.0,10% dioxane:water(v/v),water,O
+296,[O-][N+](=O)c1cc(Oc2nc(OC)nc(OC)n2)ccc1Cl.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,19.99,298.0,10% dioxane:water(v/v),water,O
+297,[O-][N+](=O)c1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,20.41,298.0,10% dioxane:water(v/v),water,O
+298,O=Cc1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccccc1>>O(c1ccccc1)c2nc(OC)nc(OC)n2,20.97,298.0,10% dioxane:water(v/v),water,O
+299,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,19.29,298.0,10% dioxane:water(v/v),water,O
+300,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1Cl.[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,20.18,298.0,10% dioxane:water(v/v),water,O
+301,Clc1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,20.56,298.0,10% dioxane:water(v/v),water,O
+302,[O-][N+](=O)c1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,21.2,298.0,10% dioxane:water(v/v),water,O
+303,O=Cc1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1cccc(Cl)c1>>Clc1cccc(Oc2nc(OC)nc(OC)n2)c1,22.01,298.0,10% dioxane:water(v/v),water,O
+304,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,20.15,298.0,10% dioxane:water(v/v),water,O
+305,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1Cl.[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,20.93,298.0,10% dioxane:water(v/v),water,O
+306,Clc1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,21.66,298.0,10% dioxane:water(v/v),water,O
+307,[O-][N+](=O)c1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,22.14,298.0,10% dioxane:water(v/v),water,O
+308,O=Cc1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccccc1Cl>>Clc1ccccc1Oc2nc(OC)nc(OC)n2,22.8,298.0,10% dioxane:water(v/v),water,O
+309,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1[N+](=O)[O-].[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,20.85,298.0,10% dioxane:water(v/v),water,O
+310,[O-][N+](=O)c1cc(Oc2nc(OC)nc(OC)n2)cc(c1)[N+](=O)[O-].[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,21.31,298.0,10% dioxane:water(v/v),water,O
+311,[O-][N+](=O)c1ccc(Oc2nc(OC)nc(OC)n2)cc1Cl.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,21.71,298.0,10% dioxane:water(v/v),water,O
+312,O=Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.75,298.0,10% dioxane:water(v/v),water,O
+313,[O-][N+](=O)c1cc(Oc2nc(OC)nc(OC)n2)ccc1Cl.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.75,298.0,10% dioxane:water(v/v),water,O
+314,[O-][N+](=O)c1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.27,298.0,10% dioxane:water(v/v),water,O
+315,O=Cc1cccc(Oc2nc(OC)nc(OC)n2)c1.[O-]c1ccc(cc1)C#N>>N#Cc1ccc(Oc2nc(OC)nc(OC)n2)cc1,22.89,298.0,10% dioxane:water(v/v),water,O
+316,Clc1nc(Cl)nc(Nc2ccccc2)n1.[OH-]>>Clc1nc(O)nc(Nc2ccccc2)n1,17.37,298.0,20% dioxane:water(v/v),water,O
+317,Clc1ccc(Nc2nc(Cl)nc(Cl)n2)cc1.[OH-]>>Clc1ccc(Nc2nc(Cl)nc(O)n2)cc1,17.01,298.0,20% dioxane:water(v/v),water,O
+318,COc1ccc(Nc2nc(Cl)nc(Cl)n2)cc1.[OH-]>>COc1ccc(Nc2nc(Cl)nc(O)n2)cc1,17.88,298.0,20% dioxane:water(v/v),water,O
+319,CN(C)c1ccc(Nc2nc(Cl)nc(Cl)n2)cc1.[OH-]>>CN(C)c1ccc(Nc2nc(Cl)nc(O)n2)cc1,17.86,298.0,20% dioxane:water(v/v),water,O
+320,[O-][N+](=O)c1cccc(Nc2nc(Cl)nc(Cl)n2)c1.[OH-]>>[O-][N+](=O)c1cccc(Nc2nc(Cl)nc(O)n2)c1,16.58,298.0,20% dioxane:water(v/v),water,O
+321,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.[O-]CCS(=O)(=O)c1ccccc1>>CN(c1ccccc1)c2nc(Cl)nc(OCCS(=O)(=O)c3ccccc3)n2,16.43,298.0,16% dioxane:water(v/v),water,O
+322,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.[O-]CC(Cl)(Cl)Cl>>CN(c1ccccc1)c2nc(Cl)nc(OCC(Cl)(Cl)Cl)n2,18.36,298.0,16% dioxane:water(v/v),water,O
+323,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.[O-]CC(F)(F)F>>CN(c1ccccc1)c2nc(Cl)nc(OCC(F)(F)F)n2,17.74,298.0,16% dioxane:water(v/v),water,O
+324,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.OCC1OC([O-])C(O)C(O)C1O>>CN(c1ccccc1)c2nc(Cl)nc(OC3C(O)C(O)C(O)C(CO)O3)n2,18.31,298.0,16% dioxane:water(v/v),water,O
+325,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.[O-]CCCl>>CN(c1ccccc1)c2nc(Cl)nc(OCCCl)n2,15.71,298.0,16% dioxane:water(v/v),water,O
+326,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.O[C@@H]1CO[C@@H]2[C@@H]([O-])CO[C@H]12>>CN(c1ccccc1)c2nc(Cl)nc(O[C@H]3CO[C@@H]4[C@H](O)CO[C@H]34)n2,14.62,298.0,16% dioxane:water(v/v),water,O
+327,CN(c1ccccc1)c2nc(Cl)nc(Cl)n2.[OH-]>>CN(c1ccccc1)c2nc(Cl)nc(O)n2,18.26,298.0,16% dioxane:water(v/v),water,O
+328,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.COc1ccc(N)cc1>>COc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)cc1,18.54,293.0,Acetonitrile,Acetonitrile,C(C)#N
+329,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.Cc1ccc(N)cc1>>Cc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)cc1,18.82,293.0,Acetonitrile,Acetonitrile,C(C)#N
+330,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c1ccc(N)cc1>>c1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)cc1,19.34,293.0,Acetonitrile,Acetonitrile,C(C)#N
+331,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.COc1ccc(N)cc1>>COc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.2,293.0,Acetonitrile,Acetonitrile,C(C)#N
+332,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.Cc1ccc(N)cc1>>Cc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.4,293.0,Acetonitrile,Acetonitrile,C(C)#N
+333,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F.c1ccc(N)cc1>>c1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)N(=O)=O)S(=O)(=O)C(F)(F)F)cc1,20.91,293.0,Acetonitrile,Acetonitrile,C(C)#N
+334,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O.COc1ccc(N)cc1>>COc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O)cc1,20.82,293.0,Acetonitrile,Acetonitrile,C(C)#N
+335,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O.Cc1ccc(N)cc1>>Cc1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O)cc1,20.98,293.0,Acetonitrile,Acetonitrile,C(C)#N
+336,COc1c(cc(cc1S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O.c1ccc(N)cc1>>c1ccc(Nc2c(cc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)N(=O)=O)cc1,21.51,293.0,Acetonitrile,Acetonitrile,C(C)#N
+337,O=N(=O)c1ccc(Cl)nc1.CCCCN>>CCCCNc1ccc(cn1)N(=O)=O,20.09,298.0,DMSO,DMSO,CS(=O)C
+338,Clc1ncccc1N(=O)=O.CCCCN>>CCCCNc1ncccc1N(=O)=O,20.46,298.0,DMSO,DMSO,CS(=O)C
+339,O=N(=O)c1ccc(Oc2ccccc2)nc1.CCCCN>>CCCCNc1ccc(cn1)N(=O)=O,22.04,298.0,DMSO,DMSO,CS(=O)C
+340,O=N(=O)c1ccc(Cl)nc1.C2CCNCC2>>C2CCCCN2c1ccc(cn1)N(=O)=O,18.16,298.0,DMSO,DMSO,CS(=O)C
+341,Clc1ncccc1N(=O)=O.C2CCNCC2>>C2CCCCN2c1ncccc1N(=O)=O,18.85,298.0,DMSO,DMSO,CS(=O)C
+342,O=N(=O)c1ccc(Cl)nc1.C2CCNC2>>C2CCCN2c1ccc(cn1)N(=O)=O,17.71,298.0,DMSO,DMSO,CS(=O)C
+343,Clc1ncccc1N(=O)=O.C2CCNC2>>C2CCCN2c1ncccc1N(=O)=O,17.81,298.0,DMSO,DMSO,CS(=O)C
+344,O=N(=O)c1ccc(Oc2ccccc2)nc1.C2CCNC2>>C2CCCN2c1ccc(cn1)N(=O)=O,20.68,298.0,DMSO,DMSO,CS(=O)C
+345,c1(Oc2ccccc2)ccc(cc1N(=O)=O)N(=O)=O.CCCCN>>CCCCNc1ccc(cc1N(=O)=O)N(=O)=O,20.57,298.0,Acetonitrile,Acetonitrile,C(C)#N
+346,c1(Oc2ccccc2)c(cccc1N(=O)=O)N(=O)=O.CCCCN>>CCCCNc1c(cccc1N(=O)=O)N(=O)=O,19.23,298.0,Acetonitrile,Acetonitrile,C(C)#N
+347,O=N(=O)c1ccc(Oc2ccccc2)nc1.CCCCN>>CCCCNc1ccc(cn1)N(=O)=O,23.74,298.0,Acetonitrile,Acetonitrile,C(C)#N
+348,c1(Oc2ccccc2)ncccc1N(=O)=O.CCCCN>>CCCCNc1ncccc1N(=O)=O,23.28,298.0,Acetonitrile,Acetonitrile,C(C)#N
+349,FC(F)(F)c1ccc(Oc2ccccc2)c(c1)N(=O)=O.CCCCN>>CCCCNc1ccc(cc1N(=O)=O)C(F)(F)F,23.35,298.0,Acetonitrile,Acetonitrile,C(C)#N
+350,N(=O)(=O)c1ccc(Oc2ccccc2)c(c1)C#N.CCCCN>>CCCCNc1ccc(cc1C#N)N(=O)(=O),23.41,298.0,Acetonitrile,Acetonitrile,C(C)#N
+351,c1(Oc2ccccc2)ccc(cc1N(=O)=O)N(=O)=O.C2CCNC2>>C2CCCN2c1ccc(cc1N(=O)=O)N(=O)=O,18.01,298.0,Acetonitrile,Acetonitrile,C(C)#N
+352,c1(Oc2ccccc2)c(cccc1N(=O)=O)N(=O)=O.C2CCNC2>>C2CCCN2c1c(cccc1N(=O)=O)N(=O)=O,19.63,298.0,Acetonitrile,Acetonitrile,C(C)#N
+353,O=N(=O)c1ccc(Oc2ccccc2)nc1.C2CCNC2>>C2CCCN2c1ccc(cn1)N(=O)=O,21.28,298.0,Acetonitrile,Acetonitrile,C(C)#N
+354,c1(Oc2ccccc2)ncccc1N(=O)=O.C2CCNC2>>C2CCCN2c1ncccc1N(=O)=O,20.56,298.0,Acetonitrile,Acetonitrile,C(C)#N
+357,c1(Oc2ccccc2)ccc(cc1N(=O)=O)N(=O)=O.C2CCNCC2>>C2CCCCN2c1ccc(cc1N(=O)=O)N(=O)=O,18.51,298.0,Acetonitrile,Acetonitrile,C(C)#N
+359,O=N(=O)c1ccc(Oc2ccccc2)nc1.C2CCNCC2>>C2CCCCN2c1ccc(cn1)N(=O)=O,21.45,298.0,Acetonitrile,Acetonitrile,C(C)#N
+360,c1(Oc2ccccc2)ncccc1N(=O)=O.C2CCNCC2>>C2CCCCN2c1ncccc1N(=O)=O,21.84,298.0,Acetonitrile,Acetonitrile,C(C)#N
+363,Clc1ncccc1N(=O)=O.[O-]c1ccccc1>>O=N(=O)c2cccnc2Oc3ccccc3,23.94,303.0,Methanol,Methanol,CO
+364,Clc1ncccc1N(=O)=O.Cc1ccc([O-])cc1>>Cc1ccc(Oc2ncccc2N(=O)=O)cc1,23.64,303.0,Methanol,Methanol,CO
+365,Clc1ncccc1N(=O)=O.COc1ccc([O-])cc1>>COc1ccc(Oc2ncccc2N(=O)=O)cc1,23.49,303.0,Methanol,Methanol,CO
+366,Clc1ncccc1N(=O)=O.Clc1ccc([O-])cc1>>Clc1ccc(Oc2ncccc2N(=O)=O)cc1,24.58,303.0,Methanol,Methanol,CO
+367,Clc1ncccc1N(=O)=O.Brc1ccc([O-])cc1>>Brc1ccc(Oc2ncccc2N(=O)=O)cc1,24.41,303.0,Methanol,Methanol,CO
+368,Clc1ncccc1N(=O)=O.O=N(=O)c1ccc([O-])cc1>>O=N(=O)c1ccc(Oc2ncccc2N(=O)=O)cc1,25.51,303.0,Methanol,Methanol,CO
+369,Clc1ncccc1N(=O)=O.Cc1cccc([O-])c1>>Cc1cccc(Oc2ncccc2N(=O)=O)c1,23.83,303.0,Methanol,Methanol,CO
+370,Clc1ncccc1N(=O)=O.FC(F)(F)c1cccc([O-])c1>>FC(F)(F)c1cccc(Oc2ncccc2N(=O)=O)c1,24.87,303.0,Methanol,Methanol,CO
+371,Clc1ccc(cn1)N(=O)=O.[O-]c1ccccc1>>O=N(=O)c1ccc(Oc2ccccc2)nc1,22.67,303.0,Methanol,Methanol,CO
+372,Clc1ccc(cn1)N(=O)=O.Cc1ccc([O-])cc1>>Cc1ccc(Oc2ccc(cn2)N(=O)=O)cc1,22.31,303.0,Methanol,Methanol,CO
+373,Clc1ccc(cn1)N(=O)=O.COc1ccc([O-])cc1>>COc1ccc(Oc2ccc(cn2)N(=O)=O)cc1,22.02,303.0,Methanol,Methanol,CO
+374,Clc1ccc(cn1)N(=O)=O.Clc1ccc([O-])cc1>>Clc1ccc(Oc2ccc(cn2)N(=O)=O)cc1,23.55,303.0,Methanol,Methanol,CO
+375,Clc1ccc(cn1)N(=O)=O.Brc1ccc([O-])cc1>>Brc1ccc(Oc2ccc(cn2)N(=O)=O)cc1,23.37,303.0,Methanol,Methanol,CO
+376,Clc1ccc(cn1)N(=O)=O.O=N(=O)c1ccc([O-])cc1>>O=N(=O)c1ccc(Oc2ccc(cn2)N(=O)=O)cc1,24.65,303.0,Methanol,Methanol,CO
+377,Clc1ccc(cn1)N(=O)=O.Cc1cccc([O-])c1>>Cc1cccc(Oc2ccc(cn2)N(=O)=O)c1,22.41,303.0,Methanol,Methanol,CO
+378,Clc1ccc(cn1)N(=O)=O.FC(F)(F)c1cccc([O-])c1>>FC(F)(F)c1cccc(Oc2ccc(cn2)N(=O)=O)c1,23.9,303.0,Methanol,Methanol,CO
+379,COc1cc(ccn1)N(=O)=O.N2CCCCC2>>O=N(=O)c1ccnc(c1)N2CCCCC2,21.71,293.0,Water,Water,O
+380,COc1cc(ccn1)N(=O)=O.N2CCCC2>>O=N(=O)c1ccnc(c1)N2CCCC2,22.73,293.0,Water,Water,O
+381,COc1cc(ccn1)N(=O)=O.N2CCOCC2>>O=N(=O)c1ccnc(c1)N2CCOCC2,24.49,293.0,Water,Water,O
+382,COc1ccc(cn1)N(=O)=O.N2CCCCC2>>O=N(=O)c1ccc(nc1)N2CCCCC2,22.39,293.0,Water,Water,O
+383,COc1ccc(cn1)N(=O)=O.N2CCCC2>>O=N(=O)c1ccc(nc1)N2CCCC2,23.48,293.0,Water,Water,O
+384,COc1ccc(cn1)N(=O)=O.N2CCOCC2>>O=N(=O)c1ccc(nc1)N2CCOCC2,25.35,293.0,Water,Water,O
+385,COc1cc(ccn1)N(=O)=O.CCOC(=O)[CH-]c1ccccc1>>CCOC(=O)C(c1ccccc1)c2cc(ccn2)N(=O)=O,17.67,293.0,DMSO,DMSO,CS(=O)C
+386,COc1ccc(cn1)N(=O)=O.CCOC(=O)[CH-]c1ccccc1>>CCOC(=O)C(c1ccccc1)c2ccc(cn2)N(=O)=O,18.88,293.0,DMSO,DMSO,CS(=O)C
+387,COc1sc(cc1N(=O)=O)N(=O)=O.N2CCCC2>>O=N(=O)c1cc(N(=O)=O)c(s1)N2CCCC2,16.5,293.0,91% Ethanol:Water,Water,O
+388,COc1sc(cc1N(=O)=O)N(=O)=O.N2CCCCC2>>O=N(=O)c1cc(N(=O)=O)c(s1)N2CCCCC2,16.91,293.0,91% Ethanol:Water,Water,O
+389,COc1sc(cc1N(=O)=O)N(=O)=O.N2CCOCC2>>O=N(=O)c1cc(N(=O)=O)c(s1)N2CCOCC2,16.99,293.0,91% Ethanol:Water,Water,O
+390,COc1sc(cc1C#N)N(=O)=O.N2CCCC2>>O=N(=O)c1cc(C#N)c(s1)N2CCCC2,15.52,293.0,Acetonitrile,Acetonitrile,C(C)#N
+391,COc1sc(cc1C#N)N(=O)=O.N2CCCCC2>>O=N(=O)c1cc(C#N)c(s1)N2CCCCC2,16.26,293.0,Acetonitrile,Acetonitrile,C(C)#N
+392,COc1sc(cc1C#N)N(=O)=O.N2CCOCC2>>O=N(=O)c1cc(C#N)c(s1)N2CCOCC2,17.98,293.0,Acetonitrile,Acetonitrile,C(C)#N
+393,COc1sc(cc1C(=O)C)N(=O)=O.N2CCCC2>>CC(=O)c1cc(sc1N2CCCC2)N(=O)=O,16.21,293.0,Acetonitrile,Acetonitrile,C(C)#N
+394,COc1sc(cc1C(=O)C)N(=O)=O.N2CCCCC2>>CC(=O)c1cc(sc1N2CCCCC2)N(=O)=O,17.41,293.0,Acetonitrile,Acetonitrile,C(C)#N
+395,COc1sc(cc1C(=O)C)N(=O)=O.N2CCOCC2>>CC(=O)c1cc(sc1N2CCOCC2)N(=O)=O,19.09,293.0,Acetonitrile,Acetonitrile,C(C)#N
+396,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccccc1>>FC(F)(F)c1cc(cc(c1Nc2ccccc2)N(=O)=O)N(=O)=O,20.99,298.0,Methanol,Methanol,CO
+397,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(OC)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(OC)cc2)N(=O)=O)N(=O)=O,19.3,298.0,Methanol,Methanol,CO
+398,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(C)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(C)cc2)N(=O)=O)N(=O)=O,20.08,298.0,Methanol,Methanol,CO
+399,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(Cl)cc2)N(=O)=O)N(=O)=O,22.25,298.0,Methanol,Methanol,CO
+400,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(OC)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(OC)ccc2)N(=O)=O)N(=O)=O,21.24,298.0,Methanol,Methanol,CO
+401,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(C)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(C)ccc2)N(=O)=O)N(=O)=O,20.85,298.0,Methanol,Methanol,CO
+402,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(Cl)ccc2)N(=O)=O)N(=O)=O,23.08,298.0,Methanol,Methanol,CO
+403,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccccc1>>FC(F)(F)c1cc(cc(c1Nc2ccccc2)N(=O)=O)N(=O)=O,22.06,298.0,Acetonitrile,Acetonitrile,C(C)#N
+404,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(OC)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(OC)cc2)N(=O)=O)N(=O)=O,20.11,298.0,Acetonitrile,Acetonitrile,C(C)#N
+405,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(C)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(C)cc2)N(=O)=O)N(=O)=O,25.06,298.0,Acetonitrile,Acetonitrile,C(C)#N
+406,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>FC(F)(F)c1cc(cc(c1Nc2ccc(Cl)cc2)N(=O)=O)N(=O)=O,23.41,298.0,Acetonitrile,Acetonitrile,C(C)#N
+407,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(OC)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(OC)ccc2)N(=O)=O)N(=O)=O,22.49,298.0,Acetonitrile,Acetonitrile,C(C)#N
+408,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(C)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(C)ccc2)N(=O)=O)N(=O)=O,21.78,298.0,Acetonitrile,Acetonitrile,C(C)#N
+409,FC(F)(F)c1cc(cc(c1Cl)N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>FC(F)(F)c1cc(cc(c1Nc2cc(Cl)ccc2)N(=O)=O)N(=O)=O,24.45,298.0,Acetonitrile,Acetonitrile,C(C)#N
+410,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccccc1>>FC(F)(F)c1cc(c(Nc2ccccc2)c(c1)N(=O)=O)N(=O)=O,20.57,298.0,Acetonitrile,Acetonitrile,C(C)#N
+411,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(OC)cc1>>FC(F)(F)c1cc(c(Nc2ccc(OC)cc2)c(c1)N(=O)=O)N(=O)=O,18.93,298.0,Acetonitrile,Acetonitrile,C(C)#N
+412,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(C)cc1>>FC(F)(F)c1cc(c(Nc2ccc(C)cc2)c(c1)N(=O)=O)N(=O)=O,19.54,298.0,Acetonitrile,Acetonitrile,C(C)#N
+413,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>FC(F)(F)c1cc(c(Nc2ccc(Cl)cc2)c(c1)N(=O)=O)N(=O)=O,21.67,298.0,Acetonitrile,Acetonitrile,C(C)#N
+414,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(OC)ccc1>>FC(F)(F)c1cc(c(Nc2cc(OC)ccc2)c(c1)N(=O)=O)N(=O)=O,21.03,298.0,Acetonitrile,Acetonitrile,C(C)#N
+415,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(C)ccc1>>FC(F)(F)c1cc(c(Nc2cc(C)ccc2)c(c1)N(=O)=O)N(=O)=O,20.34,298.0,Acetonitrile,Acetonitrile,C(C)#N
+416,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>FC(F)(F)c1cc(c(Nc2cc(Cl)ccc2)c(c1)N(=O)=O)N(=O)=O,22.67,298.0,Acetonitrile,Acetonitrile,C(C)#N
+417,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccccc1>>FC(F)(F)c1cc(c(Nc2ccccc2)c(c1)N(=O)=O)N(=O)=O,20.7,298.0,Toluene,Toluene,CC1=CC=CC=C1
+418,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(OC)cc1>>FC(F)(F)c1cc(c(Nc2ccc(OC)cc2)c(c1)N(=O)=O)N(=O)=O,19.02,298.0,Toluene,Toluene,CC1=CC=CC=C1
+419,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(C)cc1>>FC(F)(F)c1cc(c(Nc2ccc(C)cc2)c(c1)N(=O)=O)N(=O)=O,19.79,298.0,Toluene,Toluene,CC1=CC=CC=C1
+420,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1ccc(Cl)cc1>>FC(F)(F)c1cc(c(Nc2ccc(Cl)cc2)c(c1)N(=O)=O)N(=O)=O,21.89,298.0,Toluene,Toluene,CC1=CC=CC=C1
+421,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(OC)ccc1>>FC(F)(F)c1cc(c(Nc2cc(OC)ccc2)c(c1)N(=O)=O)N(=O)=O,21.09,298.0,Toluene,Toluene,CC1=CC=CC=C1
+422,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(C)ccc1>>FC(F)(F)c1cc(c(Nc2cc(C)ccc2)c(c1)N(=O)=O)N(=O)=O,20.69,298.0,Toluene,Toluene,CC1=CC=CC=C1
+423,FC(F)(F)c1cc(c(Cl)c(c1)N(=O)=O)N(=O)=O.Nc1cc(Cl)ccc1>>FC(F)(F)c1cc(c(Nc2cc(Cl)ccc2)c(c1)N(=O)=O)N(=O)=O,23.03,298.0,Toluene,Toluene,CC1=CC=CC=C1
+424,Clc1ccc(cc1N(=O)=O)N(=O)=O.C[O-]>>COc1ccc(cc1N(=O)=O)N(=O)=O,19.61,298.0,Methanol,Methanol,CO
+425,Clc1ccc(cc1N(=O)=O)S(=O)(=O)C.C[O-]>>COc1ccc(cc1N(=O)=O)S(=O)(=O)C,20.93,298.0,Methanol,Methanol,CO
+426,Clc1ccc(cc1N(=O)=O)[N+](C)(C)C.C[O-]>>COc1ccc(cc1N(=O)=O)[N+](C)(C)C,21.63,298.0,Methanol,Methanol,CO
+427,Clc1ccc(cc1N(=O)=O)C(=O)C.C[O-]>>COc1ccc(cc1N(=O)=O)C(=O)C,22.2,298.0,Methanol,Methanol,CO
+428,Clc1ccc(cc1N(=O)=O)Cl.C[O-]>>COc1ccc(cc1N(=O)=O)Cl,25.27,298.0,Methanol,Methanol,CO
+429,Clc1ccc(cc1N(=O)=O).C[O-]>>COc1ccc(cc1N(=O)=O),26.72,298.0,Methanol,Methanol,CO
+430,Brc1ccc(cc1)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(cc1)N2CCCCC2,29.98,363.0,Benzene,Benzene,C1=CC=CC=C1
+431,Brc1ccc(cc1)S(=O)(=O)C.C1CCNCC1>>CS(=O)(=O)c1ccc(cc1)N2CCCCC2,32.1,363.0,Benzene,Benzene,C1=CC=CC=C1
+432,Brc1ccc(cc1)C#N.C1CCNCC1>>N#Cc1ccc(cc1)N2CCCCC2,32.49,363.0,Benzene,Benzene,C1=CC=CC=C1
+433,Brc1ccc(cc1)C(=O)C.C1CCNCC1>>CC(=O)c1ccc(cc1)N2CCCCC2,33.09,363.0,Benzene,Benzene,C1=CC=CC=C1
+435,Brc1ccc(cc1N(=O)=O)Br.C1CCNCC1>>Brc1ccc(N2CCCCC2)c(c1)N(=O)=O,19.66,298.0,Piperidine,Piperidine,N1CCCCC1
+436,Brc1ccc(cc1N(=O)=O)Cl.C1CCNCC1>>Clc1ccc(N2CCCCC2)c(c1)N(=O)=O,19.86,298.0,Piperidine,Piperidine,N1CCCCC1
+437,Brc1ccc(cc1N(=O)=O)I.C1CCNCC1>>Ic1ccc(N2CCCCC2)c(c1)N(=O)=O,19.88,298.0,Piperidine,Piperidine,N1CCCCC1
+438,Brc1ccc(cc1N(=O)=O)C(=O)[O-].C1CCNCC1>>C(=O)([O-])c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.33,298.0,Piperidine,Piperidine,N1CCCCC1
+439,Brc1ccc(cc1N(=O)=O).C1CCNCC1>>c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.88,298.0,Piperidine,Piperidine,N1CCCCC1
+440,Brc1ccc(cc1N(=O)=O)F.C1CCNCC1>>Fc1ccc(N2CCCCC2)c(c1)N(=O)=O,21.68,298.0,Piperidine,Piperidine,N1CCCCC1
+441,Brc1ccc(cc1N(=O)=O)C(C)(C)C.C1CCNCC1>>CC(C)(C)c1ccc(N2CCCCC2)c(c1)N(=O)=O,21.93,298.0,Piperidine,Piperidine,N1CCCCC1
+442,Brc1ccc(cc1N(=O)=O)C.C1CCNCC1>>Cc1ccc(N2CCCCC2)c(c1)N(=O)=O,22.02,298.0,Piperidine,Piperidine,N1CCCCC1
+443,Brc1ccc(cc1N(=O)=O)OC.C1CCNCC1>>COc1ccc(N2CCCCC2)c(c1)N(=O)=O,23.26,298.0,Piperidine,Piperidine,N1CCCCC1
+444,Brc1ccc(cc1N(=O)=O)OCC.C1CCNCC1>>CCOc1ccc(N2CCCCC2)c(c1)N(=O)=O,23.36,298.0,Piperidine,Piperidine,N1CCCCC1
+445,Brc1ccc(cc1N(=O)=O)N(C)C.C1CCNCC1>>CN(C)c1ccc(N2CCCCC2)c(c1)N(=O)=O,24.85,298.0,Piperidine,Piperidine,N1CCCCC1
+446,Brc1ccc(cc1N(=O)=O)O.C1CCNCC1>>Oc1ccc(N2CCCCC2)c(c1)N(=O)=O,25.29,298.0,Piperidine,Piperidine,N1CCCCC1
+447,Brc1ccc(cc1N(=O)=O)N.C1CCNCC1>>Nc1ccc(N2CCCCC2)c(c1)N(=O)=O,26.2,298.0,Piperidine,Piperidine,N1CCCCC1
+448,Clc1ccc(c2nonc12)N(=O)=O.O1CCNCC1>>O=N(=O)c1ccc(N2CCOCC2)c3nonc13,17.25,293.0,Acetonitrile,Acetonitrile,C(C)#N
+449,Clc1ccc(c2nonc12)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c3nonc13,15.75,293.0,Acetonitrile,Acetonitrile,C(C)#N
+450,Clc1ccc(c2nonc12)N(=O)=O.C1CCNC1>>O=N(=O)c1ccc(N2CCCC2)c3nonc13,14.92,293.0,Acetonitrile,Acetonitrile,C(C)#N
+451,COc1ccc(c2nonc12)N(=O)=O.O1CCNCC1>>O=N(=O)c1ccc(N2CCOCC2)c3nonc13,18.4,293.0,Acetonitrile,Acetonitrile,C(C)#N
+452,COc1ccc(c2nonc12)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c3nonc13,16.64,293.0,Acetonitrile,Acetonitrile,C(C)#N
+453,COc1ccc(c2nonc12)N(=O)=O.C1CCNC1>>O=N(=O)c1ccc(N2CCCC2)c3nonc13,15.92,293.0,Acetonitrile,Acetonitrile,C(C)#N
+454,Clc1ccc(c2nonc12)N(=O)=O.c1ccc(N)cc1>>c1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,22.37,293.0,Acetonitrile,Acetonitrile,C(C)#N
+455,Clc1ccc(c2nonc12)N(=O)=O.Cc1ccc(N)cc1>>Cc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,21.29,293.0,Acetonitrile,Acetonitrile,C(C)#N
+456,Clc1ccc(c2nonc12)N(=O)=O.COc1ccc(N)cc1>>COc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,20.35,293.0,Acetonitrile,Acetonitrile,C(C)#N
+457,Clc1ccc(c2nonc12)N(=O)=O.Oc1ccc(N)cc1>>Oc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,19.73,293.0,Acetonitrile,Acetonitrile,C(C)#N
+458,COc1ccc(c2nonc12)N(=O)=O.c1ccc(N)cc1>>c1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,22.7,293.0,Acetonitrile,Acetonitrile,C(C)#N
+459,COc1ccc(c2nonc12)N(=O)=O.Cc1ccc(N)cc1>>Cc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,22.0,293.0,Acetonitrile,Acetonitrile,C(C)#N
+460,COc1ccc(c2nonc12)N(=O)=O.COc1ccc(N)cc1>>COc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,21.17,293.0,Acetonitrile,Acetonitrile,C(C)#N
+461,COc1ccc(c2nonc12)N(=O)=O.Oc1ccc(N)cc1>>Oc1ccc(Nc2ccc(c3nonc23)N(=O)=O)cc1,20.7,293.0,Acetonitrile,Acetonitrile,C(C)#N
+462,Clc1ncnc2ccccc12.Nc1ccccc1>>N(c1ccccc1)c2ncnc3ccccc23,18.0,298.0,Water,Water,O
+463,Clc1ncnc2ccccc12.NN>>NNc1ncnc2ccccc12,19.61,298.0,Water,Water,O
+464,Clc1ncnc2ccccc12.NN>>NNc1ncnc2ccccc12,18.99,298.0,Ethanol,Ethanol,C(C)O
+465,Clc1ncnc2ccccc12.NN>>NNc1ncnc2ccccc12,19.56,298.0,Dioxane,Dioxane,O1CCOCC1
+466,Clc1ncnc2ccccc12.NN>>NNc1ncnc2ccccc12,20.04,298.0,Acetonitrile,Acetonitrile,C(C)#N
+467,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,17.29,298.0,HMPT,HMPT,CN(P(=O)(N(C)C)N(C)C)C
+468,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,21.1,298.0,TMS,TMS,C[Si](C)(C)C
+469,C1=CC(=CC=C1[N+](=O)[O-])F.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1ccc([N+](=O)[O-])cc1,20.01,298.0,NMP,NMP,CN1C(CCC1)=O
+470,O=N(=O)c1ccc(Oc2cc(cc(c2)N(=O)=O)N(=O)=O)cc1.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1cc(cc(c1)N(=O)=O)N(=O)=O,21.1,298.0,Methanol,Methanol,CO
+471,O=N(=O)c1ccc(Oc2cc(cc(c2)N(=O)=O)N(=O)=O)cc1.[N-]=[N+]=[N-]>>[N-]=[N+]=Nc1cc(cc(c1)N(=O)=O)N(=O)=O,16.47,298.0,DMF,DMF,CN(C=O)C
+472,Ic1cc(cc(c1)N(=O)=O)N(=O)=O.[Br-]>>Brc1cc(cc(c1)N(=O)=O)N(=O)=O,29.68,298.0,Methanol,Methanol,CO
+473,Ic1cc(cc(c1)N(=O)=O)N(=O)=O.[Br-]>>Brc1cc(cc(c1)N(=O)=O)N(=O)=O,23.01,298.0,DMF,DMF,CN(C=O)C
+474,Ic1cc(cc(c1)N(=O)=O)N(=O)=O.[Cl-]>>Clc1cc(cc(c1)N(=O)=O)N(=O)=O,31.32,298.0,Methanol,Methanol,CO
+475,Ic1cc(cc(c1)N(=O)=O)N(=O)=O.[Cl-]>>Clc1cc(cc(c1)N(=O)=O)N(=O)=O,22.46,298.0,DMF,DMF,CN(C=O)C
+476,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.35,298.0,Cyclohexane,Cyclohexane,C1CCCCC1
+477,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.93,298.0,Benzene,Benzene,C1=CC=CC=C1
+478,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.87,298.0,Chloroform,Chloroform,C(Cl)(Cl)Cl
+479,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.73,298.0,Dioxane,Dioxane,O1CCOCC1
+480,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.41,298.0,"1,1,1-trichloroethane","1,1,1-trichloroethane",ClC(C)(Cl)Cl
+481,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.37,298.0,Chlorobenzene,Chlorobenzene,ClC1=CC=CC=C1
+482,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.21,298.0,Ethylacetate,Ethylacetate,C(C)OC(C)=O
+483,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.15,298.0,THF,THF,O1CCCC1
+484,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,17.85,298.0,Acetone,Acetone,CC(=O)C
+485,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,17.56,298.0,Nitromethane,Nitromethane,[N+](=O)([O-])C
+486,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,17.36,298.0,DMF,DMF,CN(C=O)C
+487,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,17.04,298.0,DMSO,DMSO,CS(=O)C
+488,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.95,298.0,Methanol,Methanol,CO
+489,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.8,298.0,Ethanol,Ethanol,C(C)O
+490,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.77,298.0,2-Methylpropan-1-ol,2-Methylpropan-1-ol,CC(CO)C
+491,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.76,298.0,Propan-1-ol,Propan-1-ol,C(CC)O
+492,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.6,298.0,Propan-2-ol,Propan-2-ol,CC(C)O
+493,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.59,298.0,Butan-2-ol,Butan-2-ol,CC(CC)O
+494,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.14,298.0,Benzylalcohol,Benzylalcohol,C(C1=CC=CC=C1)O
+495,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.84,298.0,2-Phenoxyethanol,2-Phenoxyethanol,O(C1=CC=CC=C1)CCO
+496,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.33,298.0,2-Methoxyethanol,2-Methoxyethanol,COCCO
+497,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.14,298.0,Diethyleneglycol,Diethyleneglycol,C(COCCO)O
+498,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.58,288.0,Methanol,Methanol,CO
+500,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.43,288.0,2-Methylpropan-1-ol,2-Methylpropan-1-ol,CC(CO)C
+501,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.44,288.0,Propan-1-ol,Propan-1-ol,C(CC)O
+502,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.26,288.0,Propan-2-ol,Propan-2-ol,CC(C)O
+503,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.23,288.0,Butan-2-ol,Butan-2-ol,CC(CC)O
+504,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.86,288.0,Benzylalcohol,Benzylalcohol,C(C1=CC=CC=C1)O
+505,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.56,288.0,2-Phenoxyethanol,2-Phenoxyethanol,O(C1=CC=CC=C1)CCO
+506,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.97,288.0,2-Methoxyethanol,2-Methoxyethanol,COCCO
+507,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,18.82,288.0,Diethyleneglycol,Diethyleneglycol,C(COCCO)O
+508,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.55,313.0,Methanol,Methanol,CO
+510,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.24,313.0,2-Methylpropan-1-ol,2-Methylpropan-1-ol,CC(CO)C
+511,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.22,313.0,Propan-1-ol,Propan-1-ol,C(CC)O
+512,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.05,313.0,Propan-2-ol,Propan-2-ol,CC(C)O
+513,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.08,313.0,Butan-2-ol,Butan-2-ol,CC(CC)O
+514,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.54,313.0,Benzylalcohol,Benzylalcohol,C(C1=CC=CC=C1)O
+515,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,20.25,313.0,2-Phenoxyethanol,2-Phenoxyethanol,O(C1=CC=CC=C1)CCO
+516,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.82,313.0,2-Methoxyethanol,2-Methoxyethanol,COCCO
+517,Clc1ccc(cc1N(=O)=O)N(=O)=O.C1CCNCC1>>O=N(=O)c1ccc(N2CCCCC2)c(c1)N(=O)=O,19.6,313.0,Diethyleneglycol,Diethyleneglycol,C(COCCO)O

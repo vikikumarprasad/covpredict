@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 
-log_file_path = 'gridsearch.log'
+log_file_path = 'gridsearch_TSR.log'
 
 models = []
 train_mae_list = []
@@ -26,20 +26,20 @@ with open(log_file_path, 'r') as file:
 # Create a DataFrame from the parsed data
 df = pd.DataFrame({
     'Model': models,
-    'Train MAE': train_mae_list,
-    'Test MAE': test_mae_list
+    'Train set': train_mae_list,
+    'Test set': test_mae_list
 })
 
 # Step 2: Create a Plot with Plotly
-fig = px.bar(df, x='Model', y=['Train MAE', 'Test MAE'],
+fig = px.bar(df, x='Model', y=['Train set', 'Test set'],
              barmode='group',
-             labels={'value': 'MAE', 'variable': 'Dataset'},
+             labels={'value': 'MAE'},
              height=600)
 
 fig.update_layout(
     xaxis_title='Model',
-    yaxis_title='Mean Absolute Errors (kcal/mol)',
-    legend_title='Dataset',
+    yaxis_title='Mean absolute error (kcal/mol)',
+    legend_title='',
     font=dict(
         family="Arial, sans-serif",
         size=14,

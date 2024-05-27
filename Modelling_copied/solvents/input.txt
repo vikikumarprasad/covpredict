@@ -1,0 +1,13 @@
+acetone
+acetonitrile
+dichloromethane
+chloroform
+carbon disulfide
+dimethyl formamide
+dimethyl sulfoxide
+diethyl ether
+water
+methanol
+n-hexane
+tetrahydrofuran
+toluene
