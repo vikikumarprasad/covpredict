@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 
-log_file_path = 'gridsearch_TSR.log'
+log_file_path = 'gridsearch_TSR-minfeats.log'
 
 models = []
 train_mae_list = []

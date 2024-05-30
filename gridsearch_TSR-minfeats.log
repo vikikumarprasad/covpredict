@@ -1,0 +1,42 @@
+Starting GridSearchCV for ElasticNet...
+GridSearchCV complete for ElasticNet.
+Best parameters: {'alpha': 0.1, 'l1_ratio': 1, 'selection': 'cyclic'}
+Best cross-validation score (MAE): 3.344383473091875
+ElasticNet Model Performance:
+Train set: R2= 0.6164168605777294, MAE = 3.294090067366394, RMSE = 4.162598617534262
+Test set: R2 = 0.5904626627251872, MAE = 3.044360659407525, RMSE = 4.0020395147525365
+Starting GridSearchCV for RandomForestRegressor...
+GridSearchCV complete for RandomForestRegressor.
+Best parameters: {'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 2}
+Best cross-validation score (MAE): 3.0759722984563345
+RandomForestRegressor Model Performance:
+Train set: R2= 0.7697980033787619, MAE = 2.555282289400101, RMSE = 3.2247000478677745
+Test set: R2 = 0.6198101357602468, MAE = 2.9551577384746524, RMSE = 3.8559810286333
+Starting GridSearchCV for GradientBoostingRegressor...
+GridSearchCV complete for GradientBoostingRegressor.
+Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 10}
+Best cross-validation score (MAE): 3.0720187736680624
+GradientBoostingRegressor Model Performance:
+Train set: R2= 0.8204161691509976, MAE = 2.2220113207124377, RMSE = 2.8481863242249723
+Test set: R2 = 0.6178090764921624, MAE = 2.957926657728614, RMSE = 3.8661153337978433
+Starting GridSearchCV for SVR...
+GridSearchCV complete for SVR.
+Best parameters: {'C': 10, 'coef0': 0, 'degree': 2, 'epsilon': 0.3, 'gamma': 'scale', 'kernel': 'rbf'}
+Best cross-validation score (MAE): 3.2209300599349406
+SVR Model Performance:
+Train set: R2= 0.6890654493455455, MAE = 2.8461122487798614, RMSE = 3.747738433530332
+Test set: R2 = 0.6473703046850956, MAE = 2.8353627706287123, RMSE = 3.7135909283419704
+Starting GridSearchCV for GaussianProcessRegressor...
+GridSearchCV complete for GaussianProcessRegressor.
+Best parameters: {'alpha': 10, 'kernel': 1**2 * RationalQuadratic(alpha=0.1, length_scale=1)}
+Best cross-validation score (MAE): 3.1146450835011
+GaussianProcessRegressor Model Performance:
+Train set: R2= 0.8446890421731265, MAE = 2.070513339995043, RMSE = 2.6487186534267404
+Test set: R2 = 0.6477965851988098, MAE = 2.823534453464985, RMSE = 3.7113456407561745
+Starting GridSearchCV for XGBRegressor...
+GridSearchCV complete for XGBRegressor.
+Best parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'subsample': 1.0}
+Best cross-validation score (MAE): 3.042507579505204
+XGBRegressor Model Performance:
+Train set: R2= 0.8125936192253241, MAE = 2.2854798322947905, RMSE = 2.9095576571165314
+Test set: R2 = 0.609736659906718, MAE = 2.9939886435549314, RMSE = 3.9067309204930445
