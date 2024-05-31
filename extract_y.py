@@ -10,7 +10,7 @@ irinten_pattern = re.compile(r'IR Inten\s+--\s+(\S+)')
 dipole_pattern = re.compile(r'Tot=\s+([-\d\.]+)')
 homo_pattern = re.compile(r'Alpha  occ\. eigenvalues\s+--\s+(.+)')
 lumo_pattern = re.compile(r'Alpha virt\. eigenvalues\s+--\s+(.+)')
-qhirsh_pattern = re.compile(r'\s{7}Tot\s+([-+]?\d*\.?\d+)')
+qhirsh_pattern = re.compile(r'\s{7}Tot\s*(-?\d+\.\d+)')
 
 def extract_last_values(file_path):
     if not os.path.exists(file_path):
@@ -79,7 +79,13 @@ data = {
     'lumoP': [],
     'qhirshR': [],
     'qhirshTS': [],
-    'qhirshP': []
+    'qhirshP': [],
+    'etaR': [],
+    'etaTS': [],
+    'etaP': [],
+    'alphaR': [],
+    'alphaTS': [],
+    'alphaP': []
 }
 
 with open('wrtprecomplex.txt', 'r') as file:
@@ -105,6 +111,13 @@ for prefix in prefixes:
     TS_P_free_energy = energy_diff(TS_free_energy, P_free_energy)
     P_R_free_energy = energy_diff(P_free_energy, R_free_energy)
     
+    R_eta = (R_lumo - R_homo)/2
+    R_alpha = -(R_lumo + R_homo)/2 
+    TS_eta = (TS_lumo - TS_homo)/2
+    TS_alpha = -(TS_lumo + TS_homo)/2 
+    P_eta = (P_lumo - P_homo)/2
+    P_alpha = -(P_lumo + P_homo)/2 
+
     data['Reactant'].append(prefix+'_Reactant')
     data['Datapoint'].append(prefix)
     data['Product'].append(prefix+'_Product')
@@ -141,6 +154,12 @@ for prefix in prefixes:
     data['qhirshR'].append(R_qhirsh)
     data['qhirshTS'].append(TS_qhirsh)
     data['qhirshP'].append(P_qhirsh)
+    data['etaR'].append(f'{R_eta:.5f}')
+    data['etaTS'].append(f'{TS_eta:.5f}')
+    data['etaP'].append(f'{P_eta:.5f}')
+    data['alphaR'].append(f'{R_alpha:.5f}')
+    data['alphaTS'].append(f'{TS_alpha:.5f}')
+    data['alphaP'].append(f'{P_alpha:.5f}')
 
     print(f"Processed all files for {prefix}")
 
